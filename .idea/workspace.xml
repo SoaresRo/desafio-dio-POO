@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8ce2bac-0f2f-4715-a4e4-00c13f1c514d" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/18BC37AF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/22BE9D93.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/23530977.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/3109F09E.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/35EB549B.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/3D6A0215.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/550A56A7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/664A1D1B.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/7FB575C1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/9696F0A1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/9FAF5548.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/A81D3C98.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/CC1CB861.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/CE4C26E7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/DC4B7724.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/DF90CFCA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/E14FA06B.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/E211FAC6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/E8D746E0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/FB93A014.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Certificados/FCCED8CB.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Desafio-GitHub---DIO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio-dio-POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/arrayMultidimensionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/carro/carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/consoante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/maiorMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/nomeIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/numerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/ordemInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/parImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Repetição-Arrays/tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Criar Cadastro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Mind Map - US1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Mind Map - US2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Redefinir Senha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/SWAGLAGS SHOPPING.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/SWAGLAGS SHOPPING.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_13 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_13 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Slides/Screenshot_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Explicação/Bootcamp DIO.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Explicação/Debbuing/debugging-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Explicação/exceptions-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Explicação/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/Ciclo de desenvolvimento de software e metodologias ágeis.pptx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/DIO - Trilha - Java Básico - Fundamentos.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/Desenvolvimento Moderno de Software.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/FundamentosDeQualidadeSoftware.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/INTRODUÇÃO - Collections.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/IntroduçãoAoMercadoQualidade.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/LIST.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/Lab 1 - O dia a dia de um QA_ A prática de testes manuais funcionais .pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/MAP.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/O caminho da certificação CTFL.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/Programação Orientada a Objetos_Thiago Leite.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/SET.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/STREAM.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/Slides - Estrutura de Repetição e Arrays em Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/Tratamento de Exceções em Java.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/VISÃO GERAL COLLECTIONS.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Material/curso_metodos.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SistemaBancario.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ks5pB2TDodxumIKQpyRQQ8q8NB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8ce2bac-0f2f-4715-a4e4-00c13f1c514d" name="Changes" comment="" />
+      <created>1674750641525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674750641525</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1674753960855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674753960855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+</project>
